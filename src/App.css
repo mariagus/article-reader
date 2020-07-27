@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(68, 63, 63);
+}
+.main {
+  color: white;
+  font-family: "courier";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.box {
+  border: none;
+  padding: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 50%;
+}
+
+.submit {
+  text-align: center;
+  padding: 0.5em;
+  font-family: "courier";
+  font-size: 1em;
+}
